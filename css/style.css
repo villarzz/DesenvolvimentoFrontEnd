@@ -15,7 +15,7 @@
   }
   
   a {
-    text-decoration: none;
+    text-decoration: none
   }
   
   img {
@@ -36,7 +36,7 @@
   /* Cabeçalho e banner */
   #header {
     min-height: 90vh;
-    background-image: url("../img/main_banner4.png");
+    background-image: url("../img/main_banner3.jpg");
     background-size: cover;
     background-position: center;
     color: var(--primary-text-color);
@@ -63,7 +63,7 @@
   }
   
   #navbar a {
-    color: var(--primary-text-color);
+    color: red;
     font-weight: bold;
   }
   
